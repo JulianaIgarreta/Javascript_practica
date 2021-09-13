@@ -17,14 +17,5 @@ console.log("Puede pasar al bar y tomar alcohol.")
 }
 let edadImpar = edad % 2 == 0 ? console.log("¿Sabías que tu edad es impar?"): "";*/
 
-//Ejercicio totalAPagar()
-
-function totalAPagar(vehiculo, litrosConsumidos){
-    switch(vehiculo){
-        case "coche":
-            console.log()
-    }
-
-}
 
 

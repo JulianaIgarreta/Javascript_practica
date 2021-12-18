@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JulianaIgarreta/Javascript_practica#readme",
   "dependencies": {
     "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
   }
 }
